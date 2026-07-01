@@ -1,0 +1,203 @@
+canonical_identifier: bkk:krp/KR6p0093/v1
+canonical_location: https://kanripo.org/bkk/KR6p0093/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 淨土警語
+  identifiers:
+    alt_id:
+    - X62n1174
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1174.xml
+    old_id: X62n1174
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0093_000.yaml, hash: 'sha256:1dc298bdf96bb9d3bc8a6b0caa4458050000c567d6ac49f48f53bdba93a40909'}
+  - {seq: 1, filename: KR6p0093_001.yaml, hash: 'sha256:2428def3c8f7d17c5b05cf2faff3b6aff300ad35d2c1cfc04c462335e4348553'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0093_000.markers.yaml, hash: 'sha256:66efe5c6ceceb75b005c9351d0d6d2ada37811baeafb200209c7282b0e9262ee'}
+  - {seq: 1, role: markers, filename: assets/KR6p0093_001.markers.yaml, hash: 'sha256:c7ce4eb268ba601fd177b01a83fdda72dd83cb6e5e661a9e4640d3d70537e142'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0093_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 淨土警語目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0093_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 13070
+  label: 淨土警語
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0093_X_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 勸發真信
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0093_X_001-mulu-2
+    span:
+    - body
+    - 625
+    - 625
+  label: 申勸
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0093_X_001-mulu-3
+    span:
+    - body
+    - 1321
+    - 1321
+  label: 又申勸
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0093_X_001-mulu-4
+    span:
+    - body
+    - 2946
+    - 2946
+  label: 起三年長期示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0093_X_001-mulu-5
+    span:
+    - body
+    - 3600
+    - 3600
+  label: 起精進七期示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0093_X_001-mulu-6
+    span:
+    - body
+    - 4081
+    - 4081
+  label: 料柬法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0093_X_001-mulu-7
+    span:
+    - body
+    - 4921
+    - 4921
+  label: 九品略辯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0093_X_001-mulu-8
+    span:
+    - body
+    - 5864
+    - 5864
+  label: 示夏子彝居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0093_X_001-mulu-9
+    span:
+    - body
+    - 6250
+    - 6250
+  label: 示丁耕野居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0093_X_001-mulu-10
+    span:
+    - body
+    - 7051
+    - 7051
+  label: 柬顧兆禎居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0093_X_001-mulu-11
+    span:
+    - body
+    - 7260
+    - 7260
+  label: 答顧兆禎居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0093_X_001-mulu-12
+    span:
+    - body
+    - 8068
+    - 8068
+  label: 名字說與金水若居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0093_X_001-mulu-13
+    span:
+    - body
+    - 8873
+    - 8873
+  label: 首楞嚴經勢至圓通章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0093_X_001-mulu-14
+    span:
+    - body
+    - 11193
+    - 11193
+  label: 旅三字說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0093_X_001-mulu-15
+    span:
+    - body
+    - 12210
+    - 12210
+  label: 觀佛毫相法
+  type: mulu
+  level: 1
+hash: sha256:aee95096e6fac1c45bde3658db5abff9054419e279a85cbf0c61f2644bf874be
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
