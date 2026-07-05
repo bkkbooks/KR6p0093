@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0093_000.yaml, hash: 'sha256:1dc298bdf96bb9d3bc8a6b0caa4458050000c567d6ac49f48f53bdba93a40909'}
-  - {seq: 1, filename: KR6p0093_001.yaml, hash: 'sha256:2428def3c8f7d17c5b05cf2faff3b6aff300ad35d2c1cfc04c462335e4348553'}
+  - {seq: 0, filename: KR6p0093_000.yaml, hash: 'sha256:ded564ed43ddb65c2db03a1725266fd55f415599bdc8a49510dbb623c373b339'}
+  - {seq: 1, filename: KR6p0093_001.yaml, hash: 'sha256:0fd4c22f4b4a122e7019446663d46724e5c2d66df941f161ac955b42495e76db'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0093_000.markers.yaml, hash: 'sha256:66efe5c6ceceb75b005c9351d0d6d2ada37811baeafb200209c7282b0e9262ee'}
-  - {seq: 1, role: markers, filename: assets/KR6p0093_001.markers.yaml, hash: 'sha256:c7ce4eb268ba601fd177b01a83fdda72dd83cb6e5e661a9e4640d3d70537e142'}
+  - {seq: 0, role: markers, filename: assets/KR6p0093_000.markers.yaml, hash: 'sha256:6f5dd23a116eb0141ae081e062dd1f4e8a4ed2c0e1b9d3994f0cf8ae8edbeff1'}
+  - {seq: 1, role: markers, filename: assets/KR6p0093_001.markers.yaml, hash: 'sha256:3b9aa6c49ee48ff23659128f2ebb8654ad04434a0709d165afcbb82b56e7b37b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -197,7 +197,4 @@ table_of_contents:
   label: 觀佛毫相法
   type: mulu
   level: 1
-hash: sha256:aee95096e6fac1c45bde3658db5abff9054419e279a85cbf0c61f2644bf874be
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:855b9da1c5946920b2c8d9ff9b1a1f0eae266c7fe2d2f4b3cf997165808e1a84
