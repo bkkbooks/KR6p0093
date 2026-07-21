@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6p0093/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 淨土警語目次勸發真信申勸又申勸起三年長期示眾起精進七期示眾料柬法門九品略辯示夏子彝居士示丁耕野居士柬顧兆禎居士答顧兆禎居士名字說與金水若居士首楞嚴經勢至圓通章旅三字說觀佛毫相法
   hash: sha256:a143a920b136183b5e075ca4dbc1ae4003281abeb2c3104e05070eb67b2c19fb
   markers:
   - {type: 其他, offset: 0, content: 淨土警語目次, id: KR6p0093_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 淨土警語
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X62/X62n1174.xml
     old_id: X62n1174
-hash: sha256:ded564ed43ddb65c2db03a1725266fd55f415599bdc8a49510dbb623c373b339
+hash: sha256:ebcf261c0e548d6133ee09603c07bc9fb87aa748db65efd617fc600163b69947

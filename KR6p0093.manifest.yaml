@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0093_000.yaml, hash: 'sha256:8ccf90c92249b276cfbd995796cdbdda3cfbb85eef049715fb62731cb2fecd43'}
+  - {seq: 0, filename: KR6p0093_000.yaml, hash: 'sha256:f34b071f7cda2aa96b32a64fb57b7f90eeb2d76eef2a609c91db9431499d6920'}
   - {seq: 1, filename: KR6p0093_001.yaml, hash: 'sha256:7d2ed6d933964c099d9e48cff675cbba981006a00bd432d44207e024a9060538'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0093_000.markers.yaml, hash: 'sha256:9c9b36d27d7d8d252e96ae802750b8aa1230121977c14807174fe85ad9d609e0'}
+  - {seq: 0, role: markers, filename: assets/KR6p0093_000.markers.yaml, hash: 'sha256:1ead62b9678df066c50306d97ed94db05d47b08eaf7ca13d6e3112ce4dad09e1'}
   - {seq: 1, role: markers, filename: assets/KR6p0093_001.markers.yaml, hash: 'sha256:0234f0dd8fcc9bf0b102d74819c3536dfc4df74145ed829eee787e9a4b0dc8f5'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0093_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 淨土警語目次
@@ -197,7 +197,7 @@ table_of_contents:
   label: 觀佛毫相法
   type: mulu
   level: 1
-hash: sha256:e9a467ff7b5a93c6667484a116b8dfc5f4e65f46c2ecbb05aa398c3fc1fa0ec4
+hash: sha256:78d7b203ee7a78b58bf4b127f4002a18f232237e042da55a4ae6b0fc649b34df
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
